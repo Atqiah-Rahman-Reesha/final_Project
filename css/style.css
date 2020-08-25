@@ -1,0 +1,45 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: 'Josefin Sans', sans-serif;}
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+  .aboutimg{
+  	width: 100%;
+  	height: 100%; 
+  }
+  .simg1{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg2{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg3{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg4{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg5{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg6{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg7{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg8{
+  	width: 300px;
+  	height: 250px;
+  }
+  .simg9{
+  	width: 300px;
+  	height: 250px;
+  }
